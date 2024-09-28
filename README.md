@@ -1,6 +1,7 @@
-# Darwin push proxy based on: https://huxley2.azurewebsites.net/
+# Darwin push proxy 
 # 
 
+Based on: https://huxley2.azurewebsites.net/
 A cross-platform JSON proxy for the GB railway Live Departure Boards SOAP API
 
 This project is treeware! If you found it useful then please [plant a tree for me](https://ecologi.com/unitsetsoftware).
