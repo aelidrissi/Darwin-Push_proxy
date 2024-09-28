@@ -4,9 +4,8 @@
 Based on: https://huxley2.azurewebsites.net/
 A cross-platform JSON proxy for the GB railway Live Departure Boards SOAP API
 
-This project is treeware! If you found it useful then please [plant a tree for me](https://ecologi.com/unitsetsoftware).
+This project is treeware! 
 
-[![Buy me a tree!](Huxley2/wwwroot/img/buy-me-a-tree.svg)](https://ecologi.com/unitsetsoftware)
 
 _Note:_ Huxley 2 is considered feature-complete and will only be updated to fix bugs or move to a new .NET LTS version.
 
