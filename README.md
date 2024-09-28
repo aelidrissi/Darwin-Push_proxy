@@ -1,4 +1,5 @@
-# Huxley 2 Community Edition
+# Darwin push proxy based on: https://huxley2.azurewebsites.net/
+# 
 
 A cross-platform JSON proxy for the GB railway Live Departure Boards SOAP API
 
